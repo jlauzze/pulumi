@@ -1,0 +1,6 @@
+name: tutorial
+runtime:
+  name: python
+#  options:
+#    virtualenv: venv
+description: getting started with pulumi
